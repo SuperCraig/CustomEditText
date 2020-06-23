@@ -1,0 +1,3 @@
+rootProject.name='CustomEditText'
+include ':app'
+include ':app:customedittext'
